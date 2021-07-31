@@ -1,2 +1,6 @@
 1. branch test
 - merge request 와 direct pull push에 관하여.
+
+## 상태확인
+원격에 develop 브랜치가 없음.
+로컬에서 develop 브랜치를 생성
