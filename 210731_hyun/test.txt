@@ -6,3 +6,7 @@
 로컬에서 develop 브랜치를 생성.
 develop 브랜치에서 작업을 계쏙 하는중.
 이는 지금 master에서 직접 가져왔을 때 상황을 보기 위함.
+.,완료
+
+2. develop브랜치에서 master에 직접 merge 하지 않고, 로컬의 merge Request로 푸쉬할 예정
+그럼 브런치가 어떻게 관리 되는지 확인해보기.
