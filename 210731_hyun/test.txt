@@ -1,0 +1,2 @@
+1. branch test
+- merge request 와 direct pull push에 관하여.
